@@ -4,16 +4,11 @@ Java is a high-level, object-oriented programming language and platform used to 
 
 It was originally developed by Sun Microsystems and is now maintained by Oracle Corporation.
 
----
-
-
 ![Java Image](./java.png)
 
----
+## Key Characteristics
 
-##  Key Characteristics
-
-###  Object-Oriented (OOP)
+### Object-Oriented (OOP)
 Programs are structured around objects and classes, making code reusable and modular.
 
 ###  Platform-Independent (“Write Once, Run Anywhere”)
@@ -25,7 +20,6 @@ Includes features like memory management and exception handling.
 ###  Widely Used
 Powers backend systems, Android apps, desktop tools, and large-scale enterprise platforms.
 
----
 
 ## Summary
 
